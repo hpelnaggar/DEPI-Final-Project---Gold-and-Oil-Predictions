@@ -1362,7 +1362,7 @@ elif page == "📋 Power BI Report":
         </div>
         <div class="pbi-iframe-wrap">
             <iframe
-                src="https://app.powerbi.com/view?r=eyJrIjoiZTE1NGM5NzMtOWE1NS00ZmZlLTg1MzAtODAyZjU0ZjZkZDMzIiwidCI6IjIwODJkZTQ2LTFhZmEtNGI2NC1hNDQwLTY1NThmODBlOTg0MCIsImMiOjh9"
+                src="https://app.powerbi.com/reportEmbed?reportId=ed3b637f-c67b-4415-86ea-4ed80ddd8aaf&autoAuth=true&ctid=2082de46-1afa-4b64-a440-6558f80e9840"
                 width="100%"
                 height="900"
                 frameborder="0"
